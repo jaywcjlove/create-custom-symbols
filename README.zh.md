@@ -3,9 +3,9 @@
 	<br />
 	<img src="./assets/logo.png" alt="Create Custom Symbols LOGO" width="160" height="160">
   <p>
-		<a href="./README.zh.md">中文</a> • 
-    <a href="https://apps.apple.com/app/create-custom-symbols/id6476924627">AppStore</a> • 
-		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a href="./README.md">English</a> • 
+    <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627">AppStore</a> • 
+		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
 	<h1>Create Custom Symbols</h1>
   <!--rehype:style=border: 0;-->
@@ -14,11 +14,12 @@
   </p>
 </div>
 
-A tool that can convert any SVG icon into a custom SF symbol. Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+一个工具，能够将任意 SVG 图标转换为自定义的 SF 符号。您可以将定制的 SF 符号导入 Xcode，并在任何基于 UIKit 或 SwiftUI 的项目中使用。
+
 
 ![RegexMate screenshots-1](./assets/screenshots-1.png)
 
-Effortlessly convert any SVG icon into an SF symbol file usable in Xcode by simply dragging and dropping the icon, enabling swift creation of SF symbol files.
+通过拖放，将任何 SVG 图标轻松转换为可在 Xcode 中使用的 SF 符号文件，快速创建 SF 符号文件。
 
 ![RegexMate screenshots-2](./assets/screenshots-2.png)
 ![RegexMate screenshots-3](./assets/screenshots-3.png)
