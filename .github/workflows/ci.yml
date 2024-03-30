@@ -62,7 +62,6 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
-      - run: cp assets/twitter.png ./dist/assets
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
