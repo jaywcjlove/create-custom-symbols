@@ -47,9 +47,6 @@ jobs:
             Apps: 
               url: https://wangchujiang.com/#/app
               target: __blank
-            About: 
-              url: https://wangchujiang.com/#/about
-              target: __blank
           sideEffectFiles:
             - README.zh.md
           footer: |
