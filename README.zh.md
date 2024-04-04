@@ -16,10 +16,12 @@
 
 一个工具，能够将任意 SVG 图标转换为自定义的 SF 符号。您可以将定制的 SF 符号导入 Xcode，并在任何基于 UIKit 或 SwiftUI 的项目中使用。
 
-
-![RegexMate screenshots-1](./assets/screenshots-1.png)
+![RegexMate screenshots-1-cn](./assets/screenshots-1-cn.png)
 
 通过拖放，将任何 SVG 图标轻松转换为可在 Xcode 中使用的 SF 符号文件，快速创建 SF 符号文件。
 
-![RegexMate screenshots-2](./assets/screenshots-2.png)
-![RegexMate screenshots-3](./assets/screenshots-3.png)
+![RegexMate screenshots-2-cn](./assets/screenshots-2-cn.png)
+
+支持批量导入 SVG 图标，并批量生成 SF 符号图标
+
+![RegexMate screenshots-3-cn](./assets/screenshots-3-cn.png)

@@ -21,4 +21,7 @@ A tool that can convert any SVG icon into a custom SF symbol. Your customized SF
 Effortlessly convert any SVG icon into an SF symbol file usable in Xcode by simply dragging and dropping the icon, enabling swift creation of SF symbol files.
 
 ![RegexMate screenshots-2](./assets/screenshots-2.png)
+
+Support batch import of SVG icons and batch generation of SF symbol icons.
+
 ![RegexMate screenshots-3](./assets/screenshots-3.png)
