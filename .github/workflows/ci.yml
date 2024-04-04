@@ -22,8 +22,8 @@ jobs:
           keywords: Symbols,svg,developer tools,productivity,create-custom-symbols
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/regex-mate
-          homepage: https://wangchujiang.com/regex-mate/
+          openSource: https://github.com/jaywcjlove/create-custom-symbols/
+          homepage: https://wangchujiang.com/create-custom-symbols/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
@@ -53,7 +53,6 @@ jobs:
           sideEffectFiles:
             - README.zh.md
           footer: |
-            <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
             <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> • 
             <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br /><br />
