@@ -35,13 +35,13 @@ jobs:
             - <meta property="og:type" content="website">
             - <meta property="og:title" content="<%= site %> - <%= description%>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-4.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-2.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
             - <meta property="twitter:title" content="<%= site %>">
             - <meta property="twitter:description" content="<%= description%>">
-            - <meta name="apple-itunes-app" content="app-id=6479819388">
+            - <meta name="apple-itunes-app" content="app-id=6476924627">
           menus:
             Home: index.html
             Apps: 
