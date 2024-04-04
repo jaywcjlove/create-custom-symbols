@@ -1,2 +1,2 @@
-https://wangchujiang.com/regex-mate/README.zh.html
-https://wangchujiang.com/regex-mate/index.html
+https://wangchujiang.com/create-custom-symbols/README.zh.html
+https://wangchujiang.com/create-custom-symbols/index.html
