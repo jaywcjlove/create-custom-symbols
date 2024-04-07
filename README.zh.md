@@ -120,4 +120,4 @@ let image = UIImage(named: "custom.multiply.circle")
 </g>
 ```
 
-### [More FAQs…](https://github.com/jaywcjlove/create-custom-symbols/issues)
+### [更多问题...](https://github.com/jaywcjlove/create-custom-symbols/issues)
