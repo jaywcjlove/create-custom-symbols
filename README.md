@@ -93,6 +93,13 @@ let image = UIImage(systemName: "multiply.circle.fill")
 // Create a custom symbol image using an asset in an asset catalog in Xcode.
 let image = UIImage(named: "custom.multiply.circle")
 ```
+
+#### How to add custom SF symbols to a string?
+
+```swift
+Text("Use \(Image("myCustomSymbolName")) to crop the image")
+```
+
 #### How to define colorful SF symbols?
 
 Currently not supported, according to the [official documentation](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app), manually adding styles, still trying to support it in the future.

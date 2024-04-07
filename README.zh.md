@@ -94,6 +94,12 @@ let image = UIImage(systemName: "multiply.circle.fill")
 let image = UIImage(named: "custom.multiply.circle")
 ```
 
+#### 如何将自定义 SF 符号添加到字符串中？
+
+```swift
+Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
+```
+
 #### 如何定义多彩 SF 符号？
 
 目前暂时不支持，根据[官方文档](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)手动去添加样式，仍然在未来尝试支持它
