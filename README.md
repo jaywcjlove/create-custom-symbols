@@ -26,6 +26,8 @@ Support batch import of SVG icons and batch generation of SF symbol icons.
 
 ![RegexMate screenshots-3](./assets/screenshots-3.png)
 
+![RegexMate screenshots-4](./assets/screenshots-4.png)
+
 ## Frequently Asked Questions
 
 #### How to Use Your Custom SF Symbol in SwiftUI?

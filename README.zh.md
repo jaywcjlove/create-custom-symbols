@@ -26,6 +26,8 @@
 
 ![RegexMate screenshots-3-cn](./assets/screenshots-3-cn.png)
 
+![RegexMate screenshots-4-cn](./assets/screenshots-4-cn.png)
+
 ### 常见问题
 
 #### 如何在 SwiftUI 中使用您的自定义 SF 符号？
