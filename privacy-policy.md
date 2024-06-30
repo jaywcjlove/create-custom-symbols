@@ -37,3 +37,10 @@ Our privacy policy may be adjusted based on business development and legal requi
 If you have any questions about our privacy policy or need assistance managing your information, please contact us at kennyiseeyou@gmail.com.
 
 This policy is effective as of June 30, 2024.
+
+
+<!--idoc:config:
+site: Create Custom Symbols
+title: Privacy Policy - 
+keywords: sfsymbol,svg,symbol,custom symbol,create custom symbols
+-->

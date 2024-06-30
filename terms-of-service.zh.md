@@ -44,6 +44,6 @@
 
 <!--idoc:config:
 site: 创建自定义符号
-title: 创建自定义符号 - 服务条款
+title: 服务条款 - 
 keywords: sfsymbol,svg,symbol,custom symbol,符号,自定义符号,svg符号,创建自定义符号
 -->

@@ -37,3 +37,10 @@
 如果您对我们的隐私政策有任何疑问或需要帮助管理您的信息，请通过以下邮箱与我们联系：kennyiseeyou@gmail.com。
 
 本政策自 2024 年 06 月 30 日起生效。
+
+
+<!--idoc:config:
+site: 创建自定义符号
+title: 隐私政策 - 
+keywords: sfsymbol,svg,symbol,custom symbol,符号,自定义符号,svg符号,创建自定义符号
+-->

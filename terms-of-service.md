@@ -44,6 +44,6 @@ These terms of service were last updated on June 30, 2024.
 
 <!--idoc:config:
 site: Create Custom Symbols
-title: Create Custom Symbols - Terms of Service
+title: Terms of Service - 
 keywords: sfsymbol,svg,symbol,custom symbol,create custom symbols
 -->
