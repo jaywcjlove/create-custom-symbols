@@ -2,6 +2,10 @@
   <a href="./terms-of-service.zh.md">中文</a>
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
+
+Terms of Service
+===
+
 Welcome to the "Create Custom Symbols" application developed by Kenny Wang. Before you subscribe or purchase, we recommend that you carefully read and understand the following terms of service.
 
 ### 1. Application Function Introduction
