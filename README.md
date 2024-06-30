@@ -129,3 +129,10 @@ Currently not supported, according to the [official documentation](https://devel
 ```
 
 ### [More FAQs…](https://github.com/jaywcjlove/create-custom-symbols/issues)
+
+<!--idoc:config:
+site: Create Custom Symbols
+title: Copybook Generator is a tool that can convert any SVG icon into a custom SF symbol - 
+description: A tool that can convert any SVG icon into a custom SF symbol. Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI
+keywords: sfsymbol,svg,symbol,custom symbol,create custom symbols
+-->

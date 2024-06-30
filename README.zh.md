@@ -129,3 +129,10 @@ Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
 ```
 
 ### [更多问题...](https://github.com/jaywcjlove/create-custom-symbols/issues)
+
+<!--idoc:config:
+site: 创建自定义符号
+title: 创建自定义符号一个可以将任何 SVG 图标转换为自定义 SF 符号的工具 - 
+description: 一个可以将任何 SVG 图标转换为自定义 SF 符号的工具
+keywords: sfsymbol,svg,symbol,custom symbol,符号,自定义符号,svg符号,创建自定义符号
+-->
