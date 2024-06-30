@@ -41,3 +41,8 @@ We are committed to protecting your personal information and will not disclose u
 If you have any questions about these terms of service, please contact us at kennyiseeyou@gmail.com.
 
 These terms of service were last updated on June 30, 2024.
+
+<!--idoc:config:
+site: Create Custom Symbols - Terms of Service
+keywords: sfsymbol,svg,symbol,custom symbol,create custom symbols
+-->
