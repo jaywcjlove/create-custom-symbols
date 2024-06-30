@@ -43,6 +43,7 @@
 本服务条款最后更新于 2024 年 06 月 30 日。
 
 <!--idoc:config:
+site: 创建自定义符号
 title: 创建自定义符号 - 服务条款
 keywords: sfsymbol,svg,symbol,custom symbol,符号,自定义符号,svg符号,创建自定义符号
 -->
