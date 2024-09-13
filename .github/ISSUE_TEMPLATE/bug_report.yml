@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="86" alt="Create Custom Symbols" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"> A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+        <img align="right" height="52" alt="Create Custom Symbols" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"> A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
 
   - type: textarea
     attributes:
