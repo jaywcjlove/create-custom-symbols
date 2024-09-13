@@ -1,6 +1,6 @@
-name: 🙋‍♂️ [QuickRSS] - Support & Feedback
+name: 🙋‍♂️ [Create Custom Symbols] - Support & Feedback
 description: Use this template to ask for support or provide feedback.
-title: '🙋‍♂️ Support & Feedback: Quick RSS'
+title: '🙋‍♂️ Support & Feedback: Create Custom Symbols'
 labels: ['support', 'feedback', 'question']
 body:
   - type: markdown
