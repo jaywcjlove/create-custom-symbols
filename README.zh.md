@@ -87,7 +87,9 @@ let customSymbol:NSImage? = NSImage(named: "MyCustomSymbolName")?
 为符号图像应用特定外观
 
 ```swift
-var configuration = NSImage.SymbolConfiguration(paletteColors: [.systemTeal, .systemGray])
+var configuration = NSImage.SymbolConfiguration(
+  paletteColors: [.systemTeal, .systemGray]
+)
 configuration = config.applying(.init(textStyle: .title1))
 imageView.symbolConfiguration = config
 ```
@@ -124,7 +126,8 @@ Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
 <g id="Symbols">
   <!-- 包含三种形状的变体，具有多色和分层注释。 -->
   <g id="Regular-M" transform="matrix(1 0 0 1 2853.78 1556)">
-      <!-- 形状位于第一个多色图层中，其填充颜色为 systemBlueColor。它也位于分层渲染的第一个图层中，层级为一级。-->
+      <!-- 形状位于第一个多色图层中，其填充颜色为 systemBlueColor。
+        它也位于分层渲染的第一个图层中，层级为一级。-->
       <path class="multicolor-0:systemBlueColor hierarchical-1:primary" d="...">
   
       <!-- 两个额外的形状。 -->

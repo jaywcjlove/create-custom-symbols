@@ -87,7 +87,9 @@ let customSymbol:NSImage? = NSImage(named: "MyCustomSymbolName")?
 Apply a specific appearance to a symbol image
 
 ```swift
-var configuration = NSImage.SymbolConfiguration(paletteColors: [.systemTeal, .systemGray])
+var configuration = NSImage.SymbolConfiguration(
+  paletteColors: [.systemTeal, .systemGray]
+)
 configuration = config.applying(.init(textStyle: .title1))
 imageView.symbolConfiguration = config
 ```
