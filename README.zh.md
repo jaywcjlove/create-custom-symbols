@@ -5,7 +5,8 @@
   <p>
     <a href="./README.md">English</a> • 
     <a href="#常见问题">常见问题</a> • 
-    <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
+    <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/create-custom-symbols/releases">变更日志</a>
   </p>
   <h1>Create Custom Symbols</h1>
   <!--rehype:style=border: 0;-->

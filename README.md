@@ -5,7 +5,8 @@
   <p>
     <a href="./README.zh.md">中文</a> • 
     <a href="#frequently-asked-questions">FAQ</a> • 
-    <a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+    <a href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/create-custom-symbols/releases">Changelog</a>
   </p>
   <h1>Create Custom Symbols</h1>
   <!--rehype:style=border: 0;-->
