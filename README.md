@@ -88,7 +88,7 @@ Apply a specific appearance to a symbol image
 
 ```swift
 var configuration = NSImage.SymbolConfiguration(
-  paletteColors: [.systemTeal, .systemGray]
+    paletteColors: [.systemTeal, .systemGray]
 )
 configuration = config.applying(.init(textStyle: .title1))
 imageView.symbolConfiguration = config
