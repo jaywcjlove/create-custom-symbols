@@ -22,17 +22,19 @@
 
 A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
 
-![RegexMate screenshots-1](./assets/screenshots-1.png)
+![Create Custom Symbols screenshots-1](./assets/screenshots-1.png)
 
 Effortlessly convert any SVG icon into an SF symbol file usable in Xcode by simply dragging and dropping the icon, enabling swift creation of SF symbol files.
 
-![RegexMate screenshots-2](./assets/screenshots-2.png)
+![Create Custom Symbols screenshots-2](./assets/screenshots-2.png)
 
 Support batch import of SVG icons and batch generation of SF symbol icons.
 
-![RegexMate screenshots-3](./assets/screenshots-3.png)
+![Create Custom Symbols screenshots-3](./assets/screenshots-3.png)
 
-![RegexMate screenshots-4](./assets/screenshots-4.png)
+![Create Custom Symbols screenshots-4](./assets/screenshots-4.png)
+
+![Create Custom Symbols screenshots-5](./assets/screenshots-5.png)
 
 ## Frequently Asked Questions
 
