@@ -7,14 +7,14 @@
   <br />
   <br />
   <img src="./assets/logo.png" alt="Create Custom Symbols LOGO" width="160" height="160">
+  <h1>Create Custom Symbols</h1>
+  <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
     <a href="#frequently-asked-questions">FAQ</a> • 
     <a href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
     <a href="https://github.com/jaywcjlove/create-custom-symbols/releases">Changelog</a>
   </p>
-  <h1>Create Custom Symbols</h1>
-  <!--rehype:style=border: 0;-->
   <p>
     <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627" title="Create Custom Symbols AppStore"><img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51"></a>
   </p>
