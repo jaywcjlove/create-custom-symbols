@@ -128,7 +128,9 @@ Currently not supported, according to the [official documentation](https://devel
   <g id="Regular-M" transform="matrix(1 0 0 1 2853.78 1556)">
       <!-- The shape is in the first multicolor layer, whose fill color is systemBlueColor. 
         It’s also in the first layer for hierarchical rendering, and the level is primary. -->
-      <path class="multicolor-0:systemBlueColor hierarchical-1:primary" d="...">
+      <path
+        class="multicolor-0:systemBlueColor hierarchical-1:primary" d="..."
+      />
   
       <!-- Two additional shapes. -->
       <path class="multicolor-1:white hierarchical-1:primary" d="...">

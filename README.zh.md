@@ -128,7 +128,9 @@ Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
   <g id="Regular-M" transform="matrix(1 0 0 1 2853.78 1556)">
       <!-- 形状位于第一个多色图层中，其填充颜色为 systemBlueColor。
         它也位于分层渲染的第一个图层中，层级为一级。-->
-      <path class="multicolor-0:systemBlueColor hierarchical-1:primary" d="...">
+      <path
+        class="multicolor-0:systemBlueColor hierarchical-1:primary" d="..."
+      />
   
       <!-- 两个额外的形状。 -->
       <path class="multicolor-1:white hierarchical-1:primary" d="...">
