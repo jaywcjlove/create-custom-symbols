@@ -20,7 +20,7 @@
   </p>
 </div>
 
-A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+A tool that can convert any SVG icon into a [Custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
 
 ![Create Custom Symbols screenshots-1](./assets/screenshots-1.png)
 
