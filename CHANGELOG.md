@@ -5,6 +5,18 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.12.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.12.0)
+
+1. Feat: Updated settings page layout.
+2. Feat: Updated main menu.
+3. Chore: Updated status bar menu.
+
+---
+
+1. 新增: 更新设置页面布局。
+2. 新增: 更新主菜单。
+3. 优化: 更新状态栏菜单。
+
 ## [v2.11.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.11.0)
 
 1. Chore: Updated the sidebar menu icon color.
