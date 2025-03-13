@@ -141,17 +141,17 @@ Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
 </g>
 ```
 
-## 如何为自定义符号启用多色支持？
+### 如何为自定义符号启用多色支持？
 
 感谢 [@ldowens](https://github.com/jaywcjlove/create-custom-symbols/issues/9) 提供的方法，帮助我们实现自定义符号的多色支持。
 
-### 步骤 1：创建并导出符号  
+#### 步骤 1：创建并导出符号  
 
 在 **Create Custom Symbols** 应用中，使用 **SVG** 创建一个新的符号，并将其导出。  
 
 ![创建符号](./assets/multi-color-support/001.png)
 
-### 步骤 2：导入 SF Symbols 并设置颜色  
+#### 步骤 2：导入 SF Symbols 并设置颜色  
 
 将导出的 **Symbols.symbols.svg** 文件拖拽到 **SF Symbols** 应用中，并创建层。  
 
@@ -161,13 +161,13 @@ Text("使用 \(Image("myCustomSymbolName")) 裁剪图像")
 
 ![设置颜色](./assets/multi-color-support/003.png)  
 
-### 步骤 3：导出多色符号  
+#### 步骤 3：导出多色符号  
 
 完成颜色设置后，在 **SF Symbols** 应用中导出符号图标。  
 
 ![导出符号](./assets/multi-color-support/004.png)  
 
-## [更多问题...](https://github.com/jaywcjlove/create-custom-symbols/issues)
+### [更多问题...](https://github.com/jaywcjlove/create-custom-symbols/issues)
 
 <!--idoc:config:
 site: 创建自定义符号

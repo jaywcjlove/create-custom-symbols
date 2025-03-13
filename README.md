@@ -141,17 +141,17 @@ Currently not supported, according to the [official documentation](https://devel
 </g>
 ```
 
-## How to Enable Multi-Color Support for Custom Symbols?
+### How to Enable Multi-Color Support for Custom Symbols?
 
 Thanks to [@ldowens](https://github.com/jaywcjlove/create-custom-symbols/issues/9) for providing a method to enable multi-color support for custom symbols.
 
-### Step 1: Create and Export the Symbol  
+#### Step 1: Create and Export the Symbol  
 
 In the **Create Custom Symbols** application, create a new symbol using **SVG** and export it.  
 
 ![Create Symbol](./assets/multi-color-support/001.png)
 
-### Step 2: Import into SF Symbols and Set Colors  
+#### Step 2: Import into SF Symbols and Set Colors  
 
 Drag the exported **Symbols.symbols.svg** file into the **SF Symbols** application and create layers.  
 
@@ -161,13 +161,13 @@ Follow the steps below to set colors for your custom symbol:
 
 ![Set Colors](./assets/multi-color-support/003.png)  
 
-### Step 3: Export the Multi-Color Symbol  
+#### Step 3: Export the Multi-Color Symbol  
 
 Once the colors are set, export the symbol icon from the **SF Symbols** application.  
 
 ![Export Symbol](./assets/multi-color-support/004.png)  
 
-## [More FAQs…](https://github.com/jaywcjlove/create-custom-symbols/issues)
+### [More FAQs…](https://github.com/jaywcjlove/create-custom-symbols/issues)
 
 <!--idoc:config:
 site: Create Custom Symbols
