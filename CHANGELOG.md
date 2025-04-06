@@ -5,6 +5,21 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.13.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.13.0)
+
+1. chore: removed redundant code and fixed macOS 14 issues.
+2. chore: added main window menu.
+3. fix: updated incorrect icon.
+4. fix: fixed menu link error.
+5. feat: added help menus.
+
+---
+
+1. chore: 移除冗余代码，修复 macOS 14 错误问题。
+2. fix: 更新错误图标。
+3. fix: 修复菜单链接错误。
+4. chore: 添加主窗口菜单。
+
 ## [v2.12.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.12.0)
 
 1. Feat: Updated settings page layout.
