@@ -13,7 +13,7 @@
     <a href="./README.md">English</a> • 
     <a href="#常见问题">常见问题</a> • 
     <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/create-custom-symbols/releases">变更日志</a>
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627" title="Create Custom Symbols AppStore"><img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51"></a>
