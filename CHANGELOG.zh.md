@@ -10,6 +10,11 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.16.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.16.0)
+
+1. fix: 修复国际化显示问题。
+2. perf: 优化侧边栏按钮的切换效果。
+
 ## [v2.15.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.15.0)
 
 1. fix: 修复 macOS 26 下的拖拽样式问题

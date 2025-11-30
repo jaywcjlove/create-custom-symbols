@@ -10,6 +10,11 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.16.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.16.0)
+
+1. fix: Fix internationalization display issue. 
+2. pref: optimize sidebar button toggle. 
+
 ## [v2.15.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.15.0)
 
 1. fix: resolve drag style issue on macOS 26
