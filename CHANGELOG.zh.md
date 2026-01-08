@@ -10,6 +10,12 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.17.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.17.0)
+
+1. feat: 改进符号图标创建功能。
+2. fix: 修复国际化显示错误。
+3. fix: 解决付费解锁验证错误问题。
+
 ## [v2.16.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.16.0)
 
 1. fix: 修复国际化显示问题。
