@@ -10,6 +10,11 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.18.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.18.0)
+
+1. feat: add de/fr/ja/ko/zh-hant locales
+2. fix: fix sidebar selection issue
+
 ## [v2.17.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.17.0)
 
 1. feat: Improve symbol icon creation functionality.

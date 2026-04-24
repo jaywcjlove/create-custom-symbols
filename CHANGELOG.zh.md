@@ -10,6 +10,11 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.18.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.18.0)
+
+1. feat: 新增德语、法语、日语、韩语和繁体中文支持
+2. fix: 修复侧边栏菜单选择问题
+
 ## [v2.17.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.17.0)
 
 1. feat: 改进符号图标创建功能。
