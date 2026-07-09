@@ -10,6 +10,15 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
+
+1. feat: 重构 SVG 图标编辑预览界面
+2. feat: 新增图标分层编辑功能
+3. feat: 支持拖拽调整图标尺寸
+4. feat: 扩充多语言国际化文本
+5. feat: 优化赞助页面与侧边栏界面
+6. fix: 修复兼容 macOS 27 相关问题
+
 ## [v2.18.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.18.0)
 
 1. feat: 新增德语、法语、日语、韩语和繁体中文支持
