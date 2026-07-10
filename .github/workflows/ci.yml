@@ -47,11 +47,11 @@ jobs:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/social-preview.jpg">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.png">
             - <meta property="og:type" content="application">
             - <meta property="og:title" content="<%= site %>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.jpg">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
