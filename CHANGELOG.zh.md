@@ -10,6 +10,11 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
+
+1. feat：内置打包附带 Create Custom Symbols 命令行工具
+2. feat：支持分别导入细体、常规体、粗黑体三种字重对应的SVG素材
+
 ## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
 
 1. feat: 重构 SVG 图标编辑预览界面

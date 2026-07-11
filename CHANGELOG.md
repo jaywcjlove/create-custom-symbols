@@ -10,6 +10,11 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
+
+1. feat: add bundled create-custom-symbols CLI tool
+2. feat: support per-weight SVG inputs for Ultralight, Regular, and Black
+
 ## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
 
 1. feat: refactor SVG icon editing and preview UI
