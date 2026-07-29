@@ -10,6 +10,10 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
+
+1. 修复：在 macOS 27 及以上系统强制正常显示菜单项 SF 符号图标
+
 ## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
 
 1. feat：内置打包附带 Create Custom Symbols 命令行工具
