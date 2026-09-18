@@ -10,6 +10,11 @@ Changelog
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
+
+1. feat: Update App icon.
+2. fix: fix jitter on appearance of menu bar button icons on macOS 27.
+
 ## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
 
 1. fix: explicitly show NSMenuItem symbol images on macOS 27+

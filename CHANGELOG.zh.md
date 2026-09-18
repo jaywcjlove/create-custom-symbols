@@ -10,6 +10,11 @@
 <img alt="Create Custom Symbols AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
+
+1. feat: 更新应用图标
+2. fix: 修复 macOS 27 下菜单栏按钮图标出现时的抖动问题
+
 ## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
 
 1. 修复：在 macOS 27 及以上系统强制正常显示菜单项 SF 符号图标
